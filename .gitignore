@@ -1,0 +1,247 @@
+# 🔐 Credentials and Sensitive Files
+.internal/GITHUB_CREDENTIALS.md
+.internal/
+*.key
+*.pem
+*.token
+config.secret.*
+
+# 🖥️ Operating System Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# 🛠️ Development Tools
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.target/
+
+# Visual Studio
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# 🎮 Game-Specific Files
+# UFO 50 specific
+ufo50_config.dat
+*.save
+savedata/
+screenshots/
+replays/
+user_settings.ini
+game_cache/
+temp_files/
+
+# 🔧 Build and Distribution
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+.env
+.env.test
+.cache/
+.parcel-cache/
+.next
+out/
+build
+.nuxt
+dist
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.deb
+*.rpm
+*.dmg
+*.pkg
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# 📝 Logs and Temporary Files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+*.pid
+*.seed
+*.pid.lock
+.grunt
+.lock-wscript
+.wafpickle-*
+.node_repl_history
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 🔄 Version Control
+.git/
+.svn/
+.hg/
+.bzr/
+
+# 📊 Monitoring and Analytics
+.nyc_output
+coverage/
+*.lcov
+.istanbul
+.coverage
+htmlcov/
+.tox/
+.coverage.*
+.cache
+.pytest_cache/
+cover/
+
+# 🚀 Deployment
+.netlify
+.vercel
+.now
+.serverless/
+.fusebox/
+.dynamodb/
+
+# 🧪 Testing
+test-results/
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# 📱 Mobile Development
+*.apk
+*.aab
+*.ipa
+*.app
+*.dSYM.zip
+*.dSYM
+
+# 🗃️ Database
+*.db
+*.sqlite
+*.sqlite3
+.database
+
+# 🎯 Project Specific
+# Assistant configuration backups
+config_backup_*
+user_profiles/
+installation_cache/
+update_cache/
+diagnostic_logs/
+crash_dumps/
+performance_data/
+
+# Documentation build
+_build/
+_static/
+_templates/
+.doctrees/
+
+# Backup files
+*.backup
+*.old
+*.orig
+*_backup
+*_old
+*~
+
+# Temporary directories
+tmp/
+temp/
+.tmp/
+.temp/ 

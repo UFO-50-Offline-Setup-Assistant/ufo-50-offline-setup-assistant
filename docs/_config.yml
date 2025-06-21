@@ -1,0 +1,128 @@
+# Site Settings
+title: "UFO 50 Offline Setup Assistant"
+description: "The ultimate tool for playing UFO 50 games completely offline. Launch all 50 classic games without Steam, internet, or account requirements."
+url: "https://ufo-50-offline-setup-assistant.github.io"
+baseurl: "/ufo-50-offline-setup-assistant"
+
+# Author/Organization
+author:
+  name: "UFO 50 Offline Setup Assistant Team"
+  email: "support@ufo50-assistant.com"
+  url: "https://github.com/UFO-50-Offline-Setup-Assistant"
+
+# SEO Settings
+lang: "en-US"
+keywords: 
+  - "UFO 50"
+  - "offline gaming"
+  - "game launcher"
+  - "retro games"
+  - "no steam"
+  - "indie games"
+  - "gaming tools"
+  - "game assistant"
+  - "classic arcade"
+  - "pixel games"
+
+# Social Media
+social:
+  name: "UFO 50 Offline Setup Assistant"
+  links:
+    - "https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant"
+    - "https://twitter.com/UFO50Assistant"
+    - "https://discord.gg/ufo50assistant"
+
+# GitHub Settings
+github:
+  repository_url: "https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant"
+  zip_url: "https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant/zipball/main"
+  tar_url: "https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant/tarball/main"
+
+# Theme and Appearance
+theme: minima
+remote_theme: "pages-themes/minimal@v0.2.0"
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Download"
+    url: "/download"
+  - title: "Documentation"
+    url: "/docs"
+  - title: "Support"
+    url: "/support"
+  - title: "GitHub"
+    url: "https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant"
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-relative-links
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - .internal/
+
+# Include
+include:
+  - _pages
+
+# Google Analytics (optional)
+# google_analytics: "UA-XXXXXXXX-X"
+
+# GitHub Pages specific
+github_pages_api_url: "https://api.github.com/repos/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant"
+show_downloads: true
+
+# Custom variables
+project:
+  name: "UFO 50 Offline Setup Assistant"
+  version: "2.1.0"
+  release_date: "2024-12-15"
+  
+gaming:
+  total_games: 50
+  supported_platforms: ["Windows", "macOS", "Linux"]
+  controller_support: true
+  offline_mode: true 
